@@ -1,0 +1,107 @@
+[
+  {
+    "url": "https://public.tableau.com/public/apis/bff/v1/workbook/StrategicProductPlacementAnalysis_17841243451330",
+    "status": 404,
+    "length": 0,
+    "data": ""
+  },
+  {
+    "url": "https://public.tableau.com/public/apis/bff/v2/workbook/StrategicProductPlacementAnalysis_17841243451330",
+    "status": 404,
+    "length": 0,
+    "data": ""
+  },
+  {
+    "url": "https://public.tableau.com/public/apis/bff/v1/workbooks/StrategicProductPlacementAnalysis_17841243451330",
+    "status": 404,
+    "length": 0,
+    "data": ""
+  },
+  {
+    "url": "https://public.tableau.com/public/apis/bff/v2/workbooks/StrategicProductPlacementAnalysis_17841243451330",
+    "status": 404,
+    "length": 0,
+    "data": ""
+  },
+  {
+    "url": "https://public.tableau.com/profile/api/single_workbook/StrategicProductPlacementAnalysis_17841243451330",
+    "status": 200,
+    "length": 926,
+    "data": {
+      "showInProfile": true,
+      "allowDataAccess": true,
+      "showByline": true,
+      "showShareOptions": true,
+      "showTabs": true,
+      "showToolbar": true,
+      "showWatermark": true,
+      "warnDataAccess": false,
+      "id": 18877461,
+      "ownerId": 6410502,
+      "firstPublishDate": 1784124345131,
+      "lastPublishDate": 1784124345131,
+      "createdAt": 1784124345139,
+      "lastUpdateDate": 1784124388238,
+      "size": 37519,
+      "description": "Strategic Product Placement Analysis",
+      "luid": "6cb959c3-3924-4479-8e55-3c82c8e0f877",
+      "permalink": null,
+      "revision": "1.0",
+      "title": "Strategic Product Placement Analysis",
+      "workbookRepoUrl": "StrategicProductPlacementAnalysis_17841243451330",
+      "extractInfo": null,
+      "viewCount": 88,
+      "defaultViewName": "Story 9",
+      "defaultViewRepoUrl": "StrategicProductPlacementAnalysis_17841243451330/sheets/Story9",
+      "defaultViewLuid": "98e17868-5314-4cbe-9049-999e7ef19761",
+      "authorProfileName": "anthony.cypriyan",
+      "authorDisplayName": "Anthony  Cypriyan",
+      "externalLink": null,
+      "numberOfFavorites": 0,
+      "attributions": []
+    }
+  },
+  {
+    "url": "https://public.tableau.com/profile/api/single_workbook/StrategicProductPlacementAnalysis_17841243451330/views",
+    "status": 404,
+    "length": 0,
+    "data": ""
+  },
+  {
+    "url": "https://public.tableau.com/public/apis/bff/v2/author/anthony.cypriyan/categories?startIndex=0&pageSize=10",
+    "status": 200,
+    "length": 614,
+    "data": {
+      "categoryNames": [
+        "Recent",
+        "Other"
+      ],
+      "workbooksWithCategories": [
+        {
+          "categoryName": "Recent",
+          "workbook": {
+            "authorProfileName": "anthony.cypriyan",
+            "authorDisplayName": "Anthony  Cypriyan",
+            "title": "Strategic Product Placement Analysis",
+            "description": "Strategic Product Placement Analysis",
+            "workbookRepoUrl": "StrategicProductPlacementAnalysis_17841243451330",
+            "defaultViewRepoUrl": "StrategicProductPlacementAnalysis_17841243451330/sheets/Story9",
+            "showInProfile": true,
+            "viewCount": 88,
+            "numberOfFavorites": 0,
+            "reactionCounts": {
+              "LOVE": 0,
+              "INSIGHTFUL": 0,
+              "SAD": 0,
+              "NOMINATE": 0,
+              "FAVORITE": 0
+            }
+          }
+        }
+      ],
+      "total": 1,
+      "startIndex": 0,
+      "nextIndex": null
+    }
+  }
+]
